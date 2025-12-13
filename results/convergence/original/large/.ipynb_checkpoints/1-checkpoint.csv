@@ -1,0 +1,2 @@
+Epoch,Step Avg Time,Overall Step Time,# Calls,Epoch Time,Training Loss,Validation Loss,Validation Accuracy
+1,73.95657969970704,46222.862312316895,625,365.20616364479065,3.812821751022339,3.393822595572016,19.12
